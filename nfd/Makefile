@@ -1,14 +1,14 @@
 # URL for git clone
-GIT_URL=https://github.com/named-data/NFD.git
+GIT_URL="-b asf-param-over-release https://github.com/agawande/NFD.git"
 
 # Tag name or commit hash for checkout
-GIT_VERSION=f4056d0242536f85b7d7b4de1b5ac50dad65c233
+GIT_VERSION=bc7cb95e727755361314b0243e557370db1b3a24
 
 # Package name
 NAME=nfd
 
 # Package version
-VERSION=0.5.1-72-gf4056d02
+VERSION=0.5.1-73-gc65c9be
 
 # PPA version
 PPA_VERSION=2

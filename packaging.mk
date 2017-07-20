@@ -1,8 +1,9 @@
 # PPA archive
-PPA=ppa:named-data/ppa-dev
+
+PPA=ppa:agawande/named-data-exp
 
 # List of target distributions
-DISTROS=trusty xenial zesty
+DISTROS=trusty xenial
 
 DEBUILD=debuild -S
 
